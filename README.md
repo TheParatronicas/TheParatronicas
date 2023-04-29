@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Paratronicas. I'm interested in programming and electronics in general. 
+This is TheParatronicas. I'm interested in programming and electronics in general. 
 Here you will find a lot of repositories on how to use certain components with Arduino, ESP32 and Raspberry Pi 4. 
 I've got a YouTube channel, where I will upload tutorials for this repos.
 
