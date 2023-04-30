@@ -1,7 +1,9 @@
-### Hi there 👋
+### Welcome 👋
 
 This is Paratronicas. Here you will find a lot of repositories on how to use certain components with Arduino, ESP32 and Raspberry Pi 4. 
-I've also got a YouTube channel, where I will upload tutorials for this repos.
+I will also publish some projects here with these 3 devices. I've also got a YouTube channel, where I will upload tutorials for this repos.
+
+So stay tuned for more😄!
 
 Contact: theparatronicas@gmail.com
  
