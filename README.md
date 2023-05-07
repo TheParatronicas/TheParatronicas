@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm The Paratronicas</h1>
+<h1 align="center">Hi 👋, I'm TheParatronicas</h1>
 <h3 align="center">Here you will find a lot of repositories on how to use certain components with Arduino, ESP32 and Raspberry Pi 4. 
 I've also got a YouTube channel, where I will upload tutorials for this repos.</h3>
 
