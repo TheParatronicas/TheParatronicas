@@ -2,8 +2,6 @@
 <h3 align="center">Here you will find a lot of repositories on how to use certain components with Arduino, ESP32 and Raspberry Pi 4. 
 I've also got a YouTube channel, where I will upload tutorials for this repos.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theparatronicas&label=Profile%20views&color=0e75b6&style=flat" alt="theparatronicas" /> </p>
-
 <p align="left">
 </p>
 
