@@ -9,3 +9,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theparatronicas&show_icons=true&locale=en" alt="theparatronicas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theparatronicas&" alt="theparatronicas" /></p>
+
+
+![Arduino Uno R3](https://github.com/TheParatronicas/arduino-uno-r3-tutorials-dev/blob/main/images/Arduino%20Uno%20R3.PNG)
+
+![Arduino Uno R3](https://github.com/TheParatronicas/esp32-dev/assets/132064901/0c2a5a09-432d-4804-9f8d-72012e89f892)
